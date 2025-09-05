@@ -1,0 +1,7 @@
+// After installing CLI, run:
+// ng new moodpalette2 --style=css --routing=false
+{
+  "name": "moodpalette2",
+  "version": "0.0.0",
+  "scripts": { "start": "ng serve" }
+}
