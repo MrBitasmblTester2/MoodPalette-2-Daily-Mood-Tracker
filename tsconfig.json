@@ -1,0 +1,5 @@
+// Default tsconfig for Angular
+{
+  "compileOnSave": false,
+  "compilerOptions": { "target": "es2015", "module": "esnext" }
+}
